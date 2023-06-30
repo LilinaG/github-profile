@@ -45,6 +45,9 @@ body {
   outline: none;
 }
 
+#main {
+  display: none;
+}
 .card {
   max-width: 800px;
   background-color: #4c2885;
@@ -54,6 +57,7 @@ body {
   display: flex;
   padding: 3rem;
   margin: 0 1.5rem;
+  
 }
 
 .avatar {
